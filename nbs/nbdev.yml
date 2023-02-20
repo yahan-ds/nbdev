@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://yahan-ds.github.io/nbdev"
+  description: "hello nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/yahan-ds/nbdev"
